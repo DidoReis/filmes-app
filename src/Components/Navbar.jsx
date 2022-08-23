@@ -19,7 +19,7 @@ function Navbar() {
     <nav id="navbar">
       <h2>
         <Link to="/">
-          <RiMovie2Fill /> Home
+          <RiMovie2Fill /> PopCornNet
         </Link>
       </h2>
       <form onSubmit={handleSubmit}>
